@@ -2,7 +2,7 @@
 
 Una landing page moderna, premium y responsiva diseñada para servicios de estética vehicular (detailing). Creada con HTML, CSS (Vanilla) y JavaScript.
 
-## 🌟 Características
+##  Características
 
 *   **Diseño Premium:** Tema oscuro con detalles en dorado y efectos "glassmorphism" para transmitir un alto estándar de calidad.
 *   **Totalmente Responsiva:** Adaptada para visualizarse perfectamente en dispositivos móviles, tablets y computadoras de escritorio.
@@ -21,7 +21,7 @@ Una landing page moderna, premium y responsiva diseñada para servicios de esté
     *   **Testimonios:** Reseñas de clientes satisfechos.
     *   **Contacto CTA:** Botón flotante y sección final para WhatsApp.
 
-## 📂 Estructura del Proyecto
+##  Estructura del Proyecto
 
 ```text
 /
@@ -36,26 +36,10 @@ Una landing page moderna, premium y responsiva diseñada para servicios de esté
 └── README.md               # Documentación del proyecto
 ```
 
-## 🛠️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 *   **HTML5:** Estructura semántica y opciones de accesibilidad.
 *   **CSS3:** Flexbox, CSS Grid, variables CSS personalizadas (`--var`), animaciones y media queries.
 *   **JavaScript (ES6):** Intersection Observers para scroll reveal, manipulación del DOM y eventos touch.
 *   **Google Fonts:** Tipografías `Outfit` (Headings) e `Inter` (Body).
 *   **SVG Icons:** Iconografía ligera e integrada directamente en el código.
-
-## 🚀 Cómo probar el proyecto
-
-Al ser un proyecto estático, no requiere un proceso de "build". Puedes visualizarlo de las siguientes maneras:
-
-1. **Servidor Local (Recomendado):**
-   Puedes levantar un servidor HTTP simple utilizando Python o Node.js desde la carpeta del proyecto:
-   *   Con Python: `python -m http.server 8000`
-   *   Con Node/npx: `npx serve .`
-   Luego visita `http://localhost:8000` (o el puerto indicado) en tu navegador.
-
-2. **Abrir directamente:**
-   Simplemente arrastra y suelta el archivo `index.html` en tu navegador web moderno favorito.
-
----
-*Demo creada para fines de exhibición.*
